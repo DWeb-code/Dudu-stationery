@@ -1,4 +1,4 @@
-# 🏪 Cartoleria Dudù - Website
+# Cartoleria Dudù - Website
 
 Un sito web moderno e responsive per una cartoleria locale, che combina design accogliente con funzionalità professionali.
 
